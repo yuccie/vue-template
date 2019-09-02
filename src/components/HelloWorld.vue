@@ -93,6 +93,7 @@ export default {
   },
   methods: {
     myFun() {
+      //测试hooks
       console.log(1)
     }
   }
